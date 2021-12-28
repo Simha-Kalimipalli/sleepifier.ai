@@ -5,15 +5,15 @@ This is the frontEnd for Sleepifier.AI, An app that helps you use your sleep dat
 # Tech Used
  Languages
  * python
- ** altair
- ** Falsk
+     * altair
+     * Falsk
  * css
  * html
 
 
 # Example of Data output
 
-![alt text](https://github.com/Simha-Kalimipali/sleepifier.ai/blob/main/sleep_graph.png?raw=true)
+![alt text](https://github.com/Simha-Kalimipalli/sleepifier.ai/blob/main/static/sleep_graph.png)
 
 
 This is an ongoing file
